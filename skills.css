@@ -1,0 +1,22 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FA704A;
+}
+li{
+    margin-top: 15px;
+}
+.ps{
+    width: 40vh;
+}
+.pps{
+    display: flex;
+    justify-content: center;
+}

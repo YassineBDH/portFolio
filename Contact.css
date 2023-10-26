@@ -1,0 +1,20 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FA704A;
+}
+li{
+    margin-top: 15px;
+}
+.cn{
+display: flex;
+justify-content: center ;
+margin-top: 30px;
+}

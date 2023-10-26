@@ -1,0 +1,40 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: #FA704A;
+}
+li{
+    margin-top: 15px;
+}
+
+.presentation{
+    background-color: #24C6FB;
+    border-radius: 10px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.photo_logo{
+    /* width: 70px; */
+    /* height: auto; */
+    display: flex; 
+    justify-content: space-around;
+    align-items: center ;
+}   
+.pp{
+    width: 20vw;
+    height: 20vh;
+   
+}
+.ph{
+    
+    width: 20vw;
+    height: 30vh;
+}
