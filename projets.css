@@ -13,7 +13,24 @@ ul{
 li{
     margin-top: 15px;
 }
-.pr{
+#block{
     display: flex;
-    justify-content: center;
+    /* flex-direction: column; */
+    margin-top: 30px;
+        justify-content:space-evenly;
+
+}
+
+.pro img{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    /* margin: 50px; */
+    /* justify-content: space-around; */
+    /* align-items: flex-start; */
+    /* flex-direction: row; */
+   
+}   
+.pro h2{
+    margin-top: 20px;
 }
